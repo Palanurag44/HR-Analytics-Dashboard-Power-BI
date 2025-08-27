@@ -44,3 +44,9 @@ Integration with real-time HR datasets.
 
 More advanced DAX calculations for deeper insights.
 
+📌 Author
+👤 [Anurag pal]
+
+🌐 linkedin.com/in/anurag-pal-7a722a127
+📧 Email: [Palanurag44@gmail.com]
+
